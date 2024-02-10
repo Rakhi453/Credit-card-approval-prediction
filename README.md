@@ -1,3 +1,6 @@
+Credit cad Approval Prediction Capstone Project-1
+
+
 Credit card project proposes the development of ML model to predict the potential candidate for approval of credit card.
 This will be helpful for banks by reducing risk, optimizing resources and identifying valuable customer. It provides banks to gain a competitive edge, manage risk effectively, and cultivate valuable customer relationship. This project delivers a powerful tool to achieve these goals and contribute to a more inclusive and efficient financial system.
 1. Formulate Initial Hypothesis:
